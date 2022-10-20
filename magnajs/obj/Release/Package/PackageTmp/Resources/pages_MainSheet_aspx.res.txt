@@ -1,0 +1,34 @@
+﻿Titulo=MainSheet Capacity Planning
+
+gvEncabezado-Press=Press
+gvEncabezado-HrsDay=Hrs Day
+gvEncabezado-Lunch=Lunch
+gvEncabezado-Shift=Shift
+gvEncabezado-SetUpTime=Set Up Time
+gvEncabezado-Weeks=Weeks
+gvEncabezado-ShiftxWks=Shift x Wks
+gvEncabezado-Shift1=Shift: 1
+gvEncabezado-Shift2=Shift: 2
+gvEncabezado-Shift3=Shift: 3
+gvEncabezado-OverTime=Over Time
+
+gvEncabezado-TotalWeekly=Total Weekly(Hrs)
+gvEncabezado-AvailableTime=Available Time
+gvEncabezado-QCOmin=QCO (min)
+gvEncabezado-HrsxDay=Hrs x Day
+gvEncabezado-SPMa=SPM (avg)
+gvEncabezado-JPHa=JPH (avg)
+
+gvGeneral-JPH=JPH
+gvGeneral-Efficiency=Efficiency
+gvGeneral-NetJPH=NetJPH
+gvGeneral-Year=Year
+gvGeneral-QCOqty=QCO (weekly QTY)
+gvGeneral-QCOhrs=QCO (Weekly HRS)
+gvGeneral-TotalTime=Total Time (Weekly HRS)
+gvGeneral-Stokes=Stokes CAP (5 days 85%)
+gvGeneral-VolRequired=Vol Required
+gvGeneral-Utilization=% Utilization
+
+
+lblLinea = Linea

@@ -1,0 +1,26 @@
+﻿Titulo=Dashboard Capacity Planning
+
+SeleccionarArchivo=Seleccionar Archivo para carga de datos...
+
+gvGeneral-Programa=Programa
+gvGeneral-Teorico=Teorico
+gvGeneral-Real=Real
+gvGeneral-Capacidad=Capacidad
+gvGeneral-Tipo=Tipo
+gvGeneral-Anio=Año
+gvGeneral-Mes=Mes
+gvGeneral-Semana=Semana
+
+lblLinea = Linea
+lblTotal_T=Total Teorico
+lblTotal_R=Total Real
+
+lblToolCargar=Cargar Archivo
+
+
+msgArchivoNoEncontrado=No se encontro el archivo.
+folderArchivos=Archivos
+maxFileSize=20
+validExtensions=xlx,xlsx
+
+lblDescargar=Descargar

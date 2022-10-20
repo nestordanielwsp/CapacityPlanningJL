@@ -1,0 +1,25 @@
+﻿Titulo=Information
+TituloE=Efficiency
+TituloTV=Total Volume
+TituloQCO=QCO Qty
+TituloSPH=SPH
+TituloModal=Titulo Modal
+
+
+msgArchivoNoEncontrado=No se encontro el archivo.
+folderArchivos=Evidencias
+maxFileSize=20
+validExtensions=xlx,xlsx,pdf,doc,docx,png,jpg,jpeg,pdf
+
+
+
+btnGuardar=Guardar
+lblAgregar=Agregar
+
+gvGeneral-Linea=Linea
+gvGeneral-Anio=Año
+gvGeneral-Cantidad=Cantidad
+gvGeneral-Inicial=Inicial
+
+lblSelect=[ Seleccione ]
+
